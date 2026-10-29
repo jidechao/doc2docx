@@ -1,0 +1,4 @@
+node_modules/
+out-*.docx
+*.doc
+.omc/
